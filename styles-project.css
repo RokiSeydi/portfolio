@@ -40,7 +40,7 @@
 
 .item-video-container {
     position: relative;
-    width: 80%;
+    width: 90%;
     margin-left: 180px;
 }
 
@@ -142,7 +142,7 @@
     .item-video-container {
         position: relative;
         width: 80%;
-        margin-left: 150px;
+        margin-left: 130px;
     }
     .item-description {
         width: 80%;

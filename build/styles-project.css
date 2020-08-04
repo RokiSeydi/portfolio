@@ -5,7 +5,7 @@
     height: 100vh;
     overflow: hidden;
     background-color: rgba(0, 0, 0, 0.979);
-    background-image: url(/images/background2.jpg);
+    background-image: url(background2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -67,6 +67,7 @@
     font: 'Oswald', sans-serif;
     color: #ccc;
     letter-spacing: 1px;
+    z-index: 1;
 }
 
 .item-header {
@@ -77,6 +78,7 @@
     -webkit-text-stroke: 1px black;
     color: #ccc;
     font: 'Oswald', sans-serif;
+    display: inline-block;
 }
 
 .item-header .vertical-part {

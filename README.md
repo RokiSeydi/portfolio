@@ -1,3 +1,9 @@
 # portfolio
 
-personal portfolio built at the beginning of the bootcamp and finalised at the end of it
+The portfolio I am using to present my projects.
+
+I used:
+- HTML5
+- CSS5
+- Javascript
+

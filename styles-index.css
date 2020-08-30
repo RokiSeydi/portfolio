@@ -14,7 +14,9 @@
   .nav-link-bar a {
       padding: 6px 8px 6px 16px;
       text-decoration: none;
+      font: 'Oswald', sans-serif;
       font-size: 20px;
+      letter-spacing: 1.9px;
       color: rgb(242, 247, 250);
       display: inline-flex;
   }
@@ -42,7 +44,7 @@
   
   section {
       height: 100vh;
-      min-width: 100%;
+      min-width: 100vw;
       display: flex;
       align-items: center;
       justify-content: center;

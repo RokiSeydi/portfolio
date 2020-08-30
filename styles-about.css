@@ -28,11 +28,12 @@
      
      .paragraph p,
      .icons-list li {
-         color: rgba(204, 204, 204, 0.897);
+         color: #bbb;
          display: block;
          text-align: center;
          justify-content: center;
          font: 'Oswald', sans-serif;
+         letter-spacing: 1.9px;
      }
      
      h2 {
@@ -40,7 +41,7 @@
          text-align: center;
          justify-content: center;
          font: 30 'Oswald', sans-serif;
-         letter-spacing: 6px;
+         letter-spacing: 1.9px;
      }
      
      .left,

@@ -12,7 +12,6 @@
 
 .form {
     border: 1px solid #ccc;
-    display: inline-block;
     border-radius: 10px;
     padding: 30px;
 }
@@ -39,7 +38,7 @@
 }
 
 .contact-text {
-    font: 300 18px 'Lato', sans-serif;
+    font: 300 18px 'Oswald', sans-serif;
     letter-spacing: 1.9px;
     color: #bbb;
 }
@@ -125,7 +124,7 @@
 
 @media screen and (max-width: 760px) {
     .contact {
-        height: 1000px;
+        height: 800px;
     }
     .header {
         font-size: 35px;
